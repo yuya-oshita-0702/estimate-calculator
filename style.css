@@ -58,10 +58,16 @@ button:hover {
 }
 
 .result-box {
-  margin-top: 20px;
+  margin-top: 25px;
   padding: 15px;
   background: #ecf0f1;
   border-radius: 5px;
+}
+
+#result {
+  font-size: 22px;
+  font-weight: bold;
+  color: #2c6ed5;
 }
 
 .error {
